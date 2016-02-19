@@ -20,3 +20,8 @@ Competitions
 
 ### February 16th, 2016 - Miami, Florida ###
 
+- **Design #1: Charles Villard's site**
+  * The original: [charlesvillard.co](http://charlesvillard.co/)
+  * My implementation: [charlesvillard/design.html](https://khalifenizar.github.io/code-in-the-dark/charlesvillard/design.html)
+  * [**You try it!**](https://khalifenizar.github.io/code-in-the-dark/charlesvillard/editor.html)
+
