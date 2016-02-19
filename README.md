@@ -25,3 +25,8 @@ Competitions
   * My implementation: [charlesvillard/design.html](https://khalifenizar.github.io/code-in-the-dark/charlesvillard/design.html)
   * [**You try it!**](https://khalifenizar.github.io/code-in-the-dark/charlesvillard/editor.html)
 
+- **Design #2: CSS-Tricks**
+  * The original: [css-tricks.com](https://css-tricks.com/)
+  * My implementation: [csstricks/design.html](https://khalifenizar.github.io/code-in-the-dark/csstricks/design.html)
+  * [**You try it!**](https://khalifenizar.github.io/code-in-the-dark/csstricks/editor.html)
+
